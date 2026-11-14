@@ -1,6 +1,2 @@
-# My favorite movies: The Karate Kid (2010)
-## Description
-The Karate Kid is a 2010 martial arts drama film directed by Harald Zwart from a screenplay by Christopher Murphey, based on a story by Robert Mark Kamen. It serves as the fifth film in The Karate Kid franchise. The film stars Jaden Smith and Jackie Chan in the lead roles, with Taraji P. Henson, Wenwen Han, Zhenwei Wang, Luke Carberry, Zhensu Wu, Zhiheng Wang, and Yu Rongguang in supporting roles. The story follows 12-year-old Dre Parker from Detroit, who moves to Beijing, China with his widowed mother Sherry and runs afoul of the neighborhood bully Cheng. He makes an unlikely ally in the form of an ageing maintenance man, Mr. Han, a kung fu master who teaches him the secrets of self-defense. It was the final film produced by Jerry Weintraub to be released during his lifetime, as he died in July 2015.
-
-## What I like about this movies:
-I love how the movie teaches the importance of patience, discipline, and hard work. The friendship between Dre and Mr. Han is inspiring and shows that learning from others can make us stronger. I also enjoy the exciting kung fu scenes and the message that we should never give up, even when things get difficult.
+# app-dev
+My First Repository
